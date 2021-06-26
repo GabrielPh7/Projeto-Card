@@ -68,15 +68,14 @@ div {
   border-radius: 3px;
 }
 
-.js-tilt-glare {
-  display: none;
-}
-
 img {
   height: 50%;
   width: 95%;
   transform: translateZ(40px);
 }
+
+/* /* .js-tilt-glare {
+  display: none; */
 
 h2 {
   color: #fff;
